@@ -1,0 +1,45 @@
+h1 {
+    color:rgb(22, 175, 48)
+ }
+ 
+ body {
+     background: url(../img/lunchcopy.jpg);
+     background-size: 100%;
+ }
+
+ .divClass {
+    text-align: center;
+    width: auto;
+    height: auto;
+    margin-bottom: 20px;
+}  
+
+span {
+    font-size: 18px;
+    margin: 50px;
+    
+
+    }
+
+ul {
+    list-style-type: none;
+}    
+
+#thirdDiv {
+    margin-top: 70px;
+    margin-left: auto;
+    margin-right: auto;
+    padding: 50px;
+    border-color: rgb(115, 223, 129);
+    border-width: 10px;
+    border-style: solid;
+    width: 500px;
+    height: 600px;
+    background: rgb(151, 241, 143);
+}
+
+img {
+    width: 400px;
+    margin-top: 5px;
+    margin-bottom: 5px;
+ }
